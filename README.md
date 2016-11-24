@@ -1,3 +1,3 @@
 # Resume
 
-General version of Resume
+General version of my Resume
